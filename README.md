@@ -31,5 +31,5 @@ This project uses Deephaven to analyze and visualize real-time cryptocurrency pr
 
 ## Author
 **Your Name / Team Name**  
-**Email:** your.email@example.com  
+**Email:** gl1461@srmist.edu.in  
 
