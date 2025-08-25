@@ -23,3 +23,10 @@ This project provides real-time visualization of cryptocurrency price data for *
 
 ```bash
 pip install deephaven
+Clone this repository:
+
+2.Clone this repository:
+
+'''bash
+git clone https://github.com/yourusername/Real-Time-Cryptocurrency-Data-Visualization.git
+cd Real-Time-Cryptocurrency-Data-Visualization
