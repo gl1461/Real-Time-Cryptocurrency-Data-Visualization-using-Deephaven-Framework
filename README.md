@@ -30,6 +30,6 @@ This project uses Deephaven to analyze and visualize real-time cryptocurrency pr
 3. Visualizations will display interactive charts for analysis.
 
 ## Author
-**Your Name / Team Name**  
+**Garimell Lakshmi Gaysthri**  
 **Email:** gl1461@srmist.edu.in  
 
